@@ -137,3 +137,16 @@ selectable-set-ntr-belt-desc =
     A belt, hollowed out to maximize pain and minimize damage.
     This one will let you do many, many lashings to anyone who
     dares stand in NanoTrasen's way. Oh boy.
+
+selectable-set-cmo-hardsuit-name = Chief Medical Officer's hardsuit
+selectable-set-cmo-hardsuit-desc =
+    A lightweight hardsuit designed for the
+    Chief Medical Officer to be able to hastily
+    fetch people as function of a paramedic.
+
+selectable-set-cmo-modsuit-name = Chief Medical Officer's "Fumigator" modsuit
+selectable-set-cmo-modsuit-desc =
+    Perfection, Hubris, Purity - It's not a sin if you're clean.
+    A Modsuit designed with cleanliness in mind. It is very bulky,
+    however equipped with protective platings and designed to prevent
+    infections when worn.
