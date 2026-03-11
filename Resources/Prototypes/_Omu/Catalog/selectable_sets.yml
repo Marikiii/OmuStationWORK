@@ -255,7 +255,6 @@
   content:
   - ClothingOuterHardsuitCorpsman
 
-<<<<<<< HEAD
 # NTR
 
 - type: selectableSet
@@ -277,7 +276,7 @@
     state: icon
   content:
   - NanoRepBelt
-=======
+
 #cmo
 - type: selectableSet
   id: VoidsuitSelectorCMOHardsuit
@@ -298,4 +297,3 @@
     state: control
   content:
   - ClothingModsuitCMO
->>>>>>> 51bb9e0b19 (meow)
