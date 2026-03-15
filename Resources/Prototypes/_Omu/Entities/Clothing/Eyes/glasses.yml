@@ -142,7 +142,6 @@
     - Inorganic
   - type: ShowHungerIcons
   - type: ShowThirstIcons
-    protectionTime: 5
   - type: Tag
     tags:
     - WhitelistChameleon
