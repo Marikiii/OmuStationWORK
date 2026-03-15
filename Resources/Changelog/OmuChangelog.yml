@@ -2588,3 +2588,9 @@ Entries:
       message: Fixed people being able to Amag doors on protected grids.
   id: 327
   time: '2026-03-14T18:14:03.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixes the RGB staff causing the server to lag when used.
+  id: 328
+  time: '2026-03-15T00:17:07.0000000+00:00'
