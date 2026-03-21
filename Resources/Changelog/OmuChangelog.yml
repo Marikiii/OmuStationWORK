@@ -2776,3 +2776,17 @@ Entries:
         that of the Elite BSO Cloak.
   id: 353
   time: '2026-03-21T21:28:03.0000000+00:00'
+- author: Benevolent Tuerk
+  changes:
+    - type: Add
+      message: >-
+        The Courier role has been added to omu code. Please wait 3 to 4 business
+        months for em to be mapped.
+    - type: Add
+      message: >-
+        Courier Outfits from EE and DeltaV! Check the loadout screen and the
+        MailDrobe for all the goodies!
+    - type: Add
+      message: CourierSpawners for a later mapping PR
+  id: 354
+  time: '2026-03-21T21:28:44.0000000+00:00'
