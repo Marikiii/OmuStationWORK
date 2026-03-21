@@ -2790,3 +2790,9 @@ Entries:
       message: CourierSpawners for a later mapping PR
   id: 354
   time: '2026-03-21T21:28:44.0000000+00:00'
+- author: BramvanZijp
+  changes:
+    - type: Fix
+      message: You can no longer break out of a grab while stunned.
+  id: 355
+  time: '2026-03-21T23:17:56.0000000+00:00'
