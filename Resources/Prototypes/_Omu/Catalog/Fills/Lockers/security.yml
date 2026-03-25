@@ -1,0 +1,34 @@
+- type: entityTable
+  id: FillSergeant
+  table: !type:AllSelector
+    children:
+    - id: BookSpaceLaw
+
+- type: entityTable
+  id: FillSergeantHardsuit
+  table: !type:AllSelector
+    children:
+    - !type:NestedSelector
+      tableId: FillSergeant
+    - id: UndeterminedVoidsuitSecurity
+
+- type: entity
+  id: LockerSergeantFilled
+  suffix: Filled
+  parent: LockerSergeant
+  components:
+  - type: EntityTableContainerFill
+    containers:
+      entity_storage: !type:NestedSelector
+        tableId: FillSergeant
+
+
+- type: entity
+  id: LockerSergeantFillHardsuit
+  suffix: Filled, Hardsuit
+  parent: LockerSergeant
+  components:
+  - type: EntityTableContainerFill
+    containers:
+      entity_storage: !type:NestedSelector
+        tableId: FillSergeantHardsuit

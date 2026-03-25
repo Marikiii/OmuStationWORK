@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "copyright": "Taken from tgstation, no idea why it needs a generic locker but codeuloth needs it so.. (sergeant's locker is a CMO locker modified by Marikiii)",
+    "license": "CC-BY-SA-3.0",
+    "states": [
+        {
+            "name": "sergeant"
+        },
+        {
+            "name": "sergeant_door"
+        },
+        {
+            "name": "sergeant_open"
+        },
+        {
+            "name": "generic"
+        },
+        {
+            "name": "generic_door"
+        },
+        {
+            "name": "unlocked"
+        },
+        {
+            "name": "locked"
+        },
+            {
+            "name": "welded"
+        }
+    ]
+}
