@@ -1,7 +1,8 @@
 - type: entity
-  name: m1 garand
-  parent: BaseWeaponRifle
+  name: M1 Garand
+  parent: [ BaseWeaponRifle, BaseSecurityContraband ]
   id: WeaponSniperM1Garand
+  description: An ancient, adored weapon once wielded by infantrymen on Sol. This one was gifted to the Sergeant.
   components:
   - type: Sprite
     sprite: _Omu/Objects/Weapons/Guns/Snipers/ceremonial_rifle.rsi
@@ -45,4 +46,4 @@
   - type: Item
     size: Large
     storedRotation: 45
-- type: AmmoCounter
+  - type: AmmoCounter
