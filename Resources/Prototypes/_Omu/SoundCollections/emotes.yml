@@ -11,3 +11,18 @@
   - /Audio/_Omu/Voice/Reptilian/humanoid_lizard_scream_2.ogg
   - /Audio/_Omu/Voice/Reptilian/humanoid_lizard_scream_3.ogg
   - /Audio/_Omu/Voice/Reptilian/humanoid_lizard_scream_4.ogg
+
+# FEROXI SFX YAYYY
+- type: soundCollection
+  id: FeroxiChirp
+  files:
+  - #waiting
+  - #waiting
+  - #waiting
+
+- type: soundCollection
+  id: FeroxiScream
+  files:
+  - #waitingagain
+  - #waitingagain
+  - #waitingagain
