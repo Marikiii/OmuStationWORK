@@ -41,7 +41,7 @@
     soundBoltClosed:
       path: /Audio/Weapons/Guns/Bolt/rifle_bolt_closed.ogg
     soundBoltOpened:
-      path: /Audio/Weapons/Guns/Bolt/rifle_bolt_opened.ogg
+      path: /Audio/Weapons/Guns/Bolt/rifle_bolt_open.ogg
   - type: GunRequiresWield
   - type: Item
     size: Large
