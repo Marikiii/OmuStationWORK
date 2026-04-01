@@ -12,7 +12,8 @@
   name: placeholder custodii smg name
   parent: [BaseWeaponSubMachineGun, BaseGunWieldable]
   id: WeaponSubMachineGunCustodii
-  description: Command, Compliance, Correction. It's not a sin if you're standing two steps behind a god.
+  suffix: ADMEME, DO NOT MAP EVER
+  description: Command, Compliance, Control. It's not a sin if you stand beside a god.
   components:
   - type: Contraband
     allowedDepartments: [ CentralCommand ]
@@ -31,9 +32,10 @@
     minAngle: -15
     maxAngle: -24
   - type: Gun
+    projectileSpeed: 65
     minAngle: 18
     maxAngle: 30
-    fireRate: 5
+    fireRate: 3
     cameraRecoilScalar: 2
     soundGunshot:
       path: /Audio/_EinsteinEngines/Weapons/Guns/Gunshots/fpa-90-suppressed-gunshot.ogg
@@ -56,17 +58,17 @@
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: MagazineCaselessRifle
+        startingItem: MagazineCaselessTungsten
         insertSound: /Audio/Weapons/Guns/MagIn/smg_magin.ogg
         ejectSound: /Audio/Weapons/Guns/MagOut/smg_magout.ogg
         priority: 2
         whitelist:
           tags:
-            - MagazineCaselessRifle
+            - MagazineCaselessTungsten
       gun_chamber:
         name: Chamber
-        startingItem: CartridgeCaselessRifle
+        startingItem: CartridgeCaselessTungsten
         priority: 1
         whitelist:
           tags:
-            - CartridgeCaselessRifle
+            - CartridgeCaselessTungsten

@@ -21,3 +21,9 @@
 
 - type: Tag
   id: JamjarGlasses
+
+- type: Tag
+  id: CartridgeCaselessTungsten
+
+- type: Tag
+  id: MagazineCaselessTungsten
