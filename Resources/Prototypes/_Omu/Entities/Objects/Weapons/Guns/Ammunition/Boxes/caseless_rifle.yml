@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseMagazineBoxCaselessRifle
   id: MagazineBoxCaselessRifleFMJ
-  name: ammunition box (9.5mm full metal jacket)
+  name: ammunition box (9.5mm full metal jacket) #this ammo type is for crew
   description: A cardboard box of 9.5mm caseless rounds. Intended to hold general-purpose kinetic ammunition.
   components:
   - type: BallisticAmmoProvider
