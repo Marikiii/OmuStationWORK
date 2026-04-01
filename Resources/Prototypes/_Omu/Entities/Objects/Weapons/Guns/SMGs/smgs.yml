@@ -9,7 +9,7 @@
       severity: Restricted
 
 - type: entity
-  name: placeholder custodii smg name
+  name: SKBC-15 "Varja"
   parent: [BaseWeaponSubMachineGun, BaseGunWieldable]
   id: WeaponSubMachineGunCustodii
   suffix: ADMEME, DO NOT MAP EVER
