@@ -77,7 +77,6 @@
     - SemiAuto
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/sniper.ogg
-      volume: .5
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/empty.ogg
     clumsyProof: true
