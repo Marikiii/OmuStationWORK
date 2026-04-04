@@ -3095,3 +3095,9 @@ Entries:
         uplinks
   id: 396
   time: '2026-04-04T19:58:28.0000000+00:00'
+- author: BramvanZijp
+  changes:
+    - type: Fix
+      message: Fixed Diona being immune to the slowdown caused by being prone.
+  id: 397
+  time: '2026-04-04T21:43:46.0000000+00:00'
