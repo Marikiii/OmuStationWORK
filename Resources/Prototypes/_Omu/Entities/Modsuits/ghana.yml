@@ -79,7 +79,7 @@
       highPressureMultiplier: 0.08
       lowPressureMultiplier: 1000
     - type: Armor
-      traumaDeductions: # prevents traumas at all (kinda)
+      traumaDeductions:
         Dismemberment: 1
         OrganDamage: 1
         BoneDamage: 1
@@ -87,7 +87,7 @@
         NerveDamage: 1
       modifiers:
         coefficients:
-          Blunt: 0.1 # Best armor in the game - Yeah no shit.
+          Blunt: 0.1
           Slash: 0.1
           Piercing: 0.1
           Heat: 0.1
@@ -100,8 +100,8 @@
       isEquipment: true
       color: "#FFF9BF"
       lightRadius: 15
-    - type: FlashImmunity # Goobstation
-    - type: FlashSoundSuppression # Goobstation
+    - type: FlashImmunity
+    - type: FlashSoundSuppression
       protectionRange: 0
     - type: PointLight
       color: "#FFF9BF"
@@ -185,12 +185,10 @@
     - type: ClothingGrantComponent
       component:
       - type: SupermatterImmune
-      # tesla immunity too
       - type: EventHorizonIgnore
         horizonWhitelist:
           tags:
           - Tesla
-      # can touch containment fields safely
       - type: ContainmentFieldIgnore
       - type: VentCrawler
         allowInventory: true
@@ -249,4 +247,5 @@
       - id: WelderExperimental
       - id: BlueShieldShieldEvilFilled # Goobstation
       - id: DeterrentCaseFilled
+      - id: WeaponSubMachineGunCustodii
 
