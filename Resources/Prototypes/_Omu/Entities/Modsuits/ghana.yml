@@ -61,6 +61,11 @@
   - type: ClothingGrantComponent
     component:
     - type: SurgeryIgnoreClothing
+  - type: GrabModifier
+    startingGrabStage: Hard
+    grabEscapeModifier: -0.1
+    grabEscapeMultiplier: 0.8
+
 
 - type: entity
   parent: [ClothingModsuitHelmetStandard, ClothingEyesHudOmni]
@@ -190,8 +195,6 @@
           tags:
           - Tesla
       - type: ContainmentFieldIgnore
-      - type: VentCrawler
-        allowInventory: true
 
 - type: entity
   parent: ClothingModsuitBootsStandard
@@ -247,5 +250,3 @@
       - id: WelderExperimental
       - id: BlueShieldShieldEvilFilled # Goobstation
       - id: DeterrentCaseFilled
-      - id: WeaponSubMachineGunCustodii
-
