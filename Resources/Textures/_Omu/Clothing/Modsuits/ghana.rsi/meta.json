@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-3.0",
-  "copyright": "gauntlets, boots taken from Taken from TG-Station at commit 3c8fb1d107955b371dfdb3607b78074067dc4c72 and edited by Marikiii, control and backpack from GoobStation, equipped sprites by Marikiii",
+  "copyright": "gauntlets, boots taken from TG-Station at commit 3c8fb1d107955b371dfdb3607b78074067dc4c72 and edited by Marikiii; Control, backpack, helmet and all equipped sprites by Marikiii",
   "size": {
     "x": 32,
     "y": 32
@@ -17,7 +17,33 @@
     },
     {
       "name": "equipped-HEAD-sealed",
-      "directions": 4
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
     },
     {
       "name": "equipped-HEAD",

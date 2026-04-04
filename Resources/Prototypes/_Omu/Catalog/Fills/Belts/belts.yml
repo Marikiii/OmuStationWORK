@@ -10,3 +10,23 @@
     - id: Beaker
     - id: BaseChemistryEmptyVial
     - id: Syringe
+
+- type: entity
+  parent: ClothingBeltMilitaryWebbingAsakim
+  id: ClothingBeltMilitaryWebbingCustodii
+  suffix: Filled
+  suffix: ADMEME
+  components:
+  - type: StorageFill
+    contents:
+    - id: MedkitCombatFilled
+    - id: PyraAutoInjector
+      amount: 2
+    - id: PunctAutoInjector
+      amount: 2
+    - id: AdvancedCombatMedipen
+      amount: 2
+    - id: CentcommStimpack
+      amount: 2
+    - id: OmnimedToolDebug
+    - id: SpeedLoaderMatebaAP
