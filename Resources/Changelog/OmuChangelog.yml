@@ -3129,3 +3129,9 @@ Entries:
         removed from it for the same reason
   id: 401
   time: '2026-04-05T06:12:42.0000000+00:00'
+- author: Marikiii
+  changes:
+    - type: Add
+      message: Foam Dart Sniper! Comes with the Foam Force crate!
+  id: 402
+  time: '2026-04-05T06:14:55.0000000+00:00'
