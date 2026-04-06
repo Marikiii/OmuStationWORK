@@ -145,8 +145,6 @@
     slots:
       - Back
       - suitStorage
-    wieldSound:
-      path: /Audio/Items/bow_pull.ogg
   - type: UseDelay
     delay: 1
   - type: GunRequiresWield
@@ -175,6 +173,8 @@
   - type: ComponentToggler
     components:
     - type: Wieldable
+      wieldSound:
+        path: /Audio/Items/bow_pull.ogg
   - type: Appearance
   - type: GenericVisualizer
     visuals:
