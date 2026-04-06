@@ -68,7 +68,7 @@
 
 
 - type: entity
-  parent: [ClothingModsuitHelmetStandard, ClothingEyesHudOmni]
+  parent: [ClothingModsuitHelmetStandard, ShowSecurityIcons, ShowMedicalIcons]
   id: ClothingModsuitHelmetGhana
   name: Ghana lightweight modsuit helmet
   description: The helmet and holovisor that put fear in the syndicate High Command's eyes.
