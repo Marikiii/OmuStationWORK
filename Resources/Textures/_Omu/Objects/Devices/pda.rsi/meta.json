@@ -66,11 +66,10 @@
         "name": "pda-courier-whiteblue"
     },
     {
-<<<<<<< HEAD
         "name": "pda-custodii"
-=======
+    },
+    {
         "name": "insert_overlay"
->>>>>>> origin/master
     }
   ]
 }
