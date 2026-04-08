@@ -3249,3 +3249,9 @@ Entries:
         eckeckyik
   id: 413
   time: '2026-04-08T00:40:30.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: The Syndicate Evacuation pod now has reverse thrust.
+  id: 414
+  time: '2026-04-08T00:41:05.0000000+00:00'
