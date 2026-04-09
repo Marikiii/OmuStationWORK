@@ -3267,3 +3267,9 @@ Entries:
       message: IPCs can now use hair and facial hair via NT-approved wigs.
   id: 416
   time: '2026-04-08T10:52:52.0000000+00:00'
+- author: Anui-ElXx
+  changes:
+    - type: Add
+      message: Added new sounds for the "trill" emote.
+  id: 417
+  time: '2026-04-09T07:32:45.0000000+00:00'
