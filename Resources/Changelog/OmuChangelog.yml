@@ -3287,3 +3287,11 @@ Entries:
       message: Made Departmental JamJar Glasses also work as Prescription Glasses.
   id: 419
   time: '2026-04-10T00:01:50.0000000+00:00'
+- author: Nevec
+  changes:
+    - type: Fix
+      message: >-
+        Thavens now properly take respiratory damage while in critical
+        condition, preventing a softlock where they could not die.
+  id: 420
+  time: '2026-04-10T10:58:07.0000000+00:00'
