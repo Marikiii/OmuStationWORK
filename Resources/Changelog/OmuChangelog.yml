@@ -3361,3 +3361,9 @@ Entries:
         has a cool ass lunge attack like a rapier..
   id: 429
   time: '2026-04-12T17:13:50.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Disabled gamemode voting, enabled map voting.
+  id: 430
+  time: '2026-04-12T20:15:22.0000000+00:00'
