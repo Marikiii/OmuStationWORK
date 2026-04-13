@@ -3377,3 +3377,9 @@ Entries:
       message: Removed contractor baton from all uplinks except the contractor uplink
   id: 431
   time: '2026-04-13T01:09:11.0000000+00:00'
+- author: Dot5511
+  changes:
+    - type: Fix
+      message: Cyber Beasts can no longer be blind for points!
+  id: 432
+  time: '2026-04-13T19:03:19.0000000+00:00'
