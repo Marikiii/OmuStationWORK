@@ -3383,3 +3383,9 @@ Entries:
       message: Cyber Beasts can no longer be blind for points!
   id: 432
   time: '2026-04-13T19:03:19.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Larger characters should be able to block using shields again.
+  id: 433
+  time: '2026-04-13T19:03:58.0000000+00:00'
