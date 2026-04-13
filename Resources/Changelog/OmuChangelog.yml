@@ -3367,3 +3367,13 @@ Entries:
       message: Disabled gamemode voting, enabled map voting.
   id: 430
   time: '2026-04-12T20:15:22.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Remove
+      message: >-
+        Sandevistan and berserker heart removed from the uplink. The
+        undetermined bundle keeps the sandy.
+    - type: Remove
+      message: Removed contractor baton from all uplinks except the contractor uplink
+  id: 431
+  time: '2026-04-13T01:09:11.0000000+00:00'
