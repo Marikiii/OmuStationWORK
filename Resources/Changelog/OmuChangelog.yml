@@ -3389,3 +3389,9 @@ Entries:
       message: Larger characters should be able to block using shields again.
   id: 433
   time: '2026-04-13T19:03:58.0000000+00:00'
+- author: PickelSilly
+  changes:
+    - type: Add
+      message: Added digitigrade lizard sprite for chaplain's dragon suit
+  id: 434
+  time: '2026-04-13T19:06:24.0000000+00:00'
