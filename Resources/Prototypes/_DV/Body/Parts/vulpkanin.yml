@@ -43,11 +43,11 @@
   name: "vulpkanin groin"
   components:
   - type: Sprite
-    sprite: _DV/Mobs/Species/Vulpkanin/parts_plantigrade.rsi # Omu - vulp furrification
-    state: "groin_m"
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: "groin"
   - type: Icon
-    sprite: _DV/Mobs/Species/Vulpkanin/parts_plantigrade.rsi # Omu - vulp furrification
-    state: "groin_m"
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: "groin"
 
 - type: entity
   parent: [ PartVulpkaninBase, BaseHead ]
