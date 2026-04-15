@@ -22,6 +22,10 @@
     {
       "name": "r_leg_digi",
       "directions": 4
+    },
+    {
+      "name": "groin_digi",
+      "directions": 4
     }
   ]
 }

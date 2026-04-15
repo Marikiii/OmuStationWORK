@@ -37,7 +37,7 @@
     FacialHair: MobHumanoidAnyMarking
     Snout: MobHumanoidAnyMarking
     Chest: MobVulpkaninChest
-    Groin: MobVulpkaninGroin
+    Groin: MobVulpkaninGroinDigi # Omu
     HeadTop: MobHumanoidAnyMarking
     HeadSide: MobHumanoidAnyMarking
     Tail: MobHumanoidAnyMarking

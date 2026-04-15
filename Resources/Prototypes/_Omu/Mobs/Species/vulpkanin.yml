@@ -21,3 +21,21 @@
   baseSprite:
     sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
     state: l_foot_digi
+
+- type: humanoidBaseSprite
+  id: MobVulpkaninGroinDigi
+  baseSprite:
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: groin_digi
+
+- type: humanoidBaseSprite
+  id: MobVulpkaninGroinDigiMale
+  baseSprite:
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: groin_digi
+
+- type: humanoidBaseSprite
+  id: MobVulpkaninGroinDigiFemale
+  baseSprite:
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    state: groin_digi
