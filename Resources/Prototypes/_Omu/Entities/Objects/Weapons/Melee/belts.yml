@@ -173,7 +173,7 @@
 
 - type: entity
   id: NanoRepBelt
-  parent: WaistBeltSergeantBelt
+  parent: [BaseCentcommContraband, DisciplinaryBeltBase]
   name: nanotrasen representative's disciplinary belt
   description: "Looks the same as a Central Command belt, but less heavy. Oh boy, someone's getting a beating."
   components:
