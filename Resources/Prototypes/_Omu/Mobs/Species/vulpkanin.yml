@@ -25,17 +25,17 @@
 - type: humanoidBaseSprite
   id: MobVulpkaninGroinDigi
   baseSprite:
-    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
     state: groin
 
 - type: humanoidBaseSprite
   id: MobVulpkaninGroinDigiMale
   baseSprite:
-    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
     state: groin
 
 - type: humanoidBaseSprite
   id: MobVulpkaninGroinDigiFemale
   baseSprite:
-    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi # Omu - vulp furrification
+    sprite: _Omu/Mobs/Species/Vulpkanin/parts_digitigrade.rsi
     state: groin
