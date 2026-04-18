@@ -3439,3 +3439,9 @@ Entries:
       message: Fixed offset cane not working as a cane
   id: 441
   time: '2026-04-18T23:02:14.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Fix
+      message: Fixed antique laser showing up in caps locker instead of the duty case
+  id: 442
+  time: '2026-04-18T23:02:53.0000000+00:00'
