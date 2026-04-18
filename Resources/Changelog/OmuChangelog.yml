@@ -3445,3 +3445,11 @@ Entries:
       message: Fixed antique laser showing up in caps locker instead of the duty case
   id: 442
   time: '2026-04-18T23:02:53.0000000+00:00'
+- author: PickelSilly
+  changes:
+    - type: Add
+      message: >-
+        Added a Neuluthiv Visionary armored wizard costume set for syndicates,
+        found in the emagged autodrobe inventory.
+  id: 443
+  time: '2026-04-18T23:25:57.0000000+00:00'
