@@ -3477,3 +3477,9 @@ Entries:
       message: Added disgusting ogre plushie... you can fish it up now
   id: 446
   time: '2026-04-18T23:35:55.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Pirates now have less lethal weaponry.
+  id: 447
+  time: '2026-04-18T23:39:40.0000000+00:00'
