@@ -3471,3 +3471,9 @@ Entries:
       message: Salvage no longer has 2 jumpsuit tabs in their loadout
   id: 445
   time: '2026-04-18T23:34:21.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: Added disgusting ogre plushie... you can fish it up now
+  id: 446
+  time: '2026-04-18T23:35:55.0000000+00:00'
