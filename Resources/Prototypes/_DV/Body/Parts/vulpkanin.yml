@@ -92,7 +92,6 @@
   parent: [ PartVulpkaninBase, BaseRightLeg ]
   id: RightLegVulpkanin
   name: "right vulpkanin leg"
-  components:
 #Omu Start
   components:
   - type: Sprite
@@ -107,7 +106,6 @@
   parent: [ PartVulpkaninBase, BaseLeftFoot ]
   id: LeftFootVulpkanin
   name: "left vulpkanin foot"
-  components:
 #Omu Start
   components:
   - type: Sprite
@@ -122,7 +120,6 @@
   parent: [ PartVulpkaninBase, BaseRightFoot ]
   id: RightFootVulpkanin
   name: "right vulpkanin foot"
-  components:
 #Omu Start
   components:
   - type: Sprite
