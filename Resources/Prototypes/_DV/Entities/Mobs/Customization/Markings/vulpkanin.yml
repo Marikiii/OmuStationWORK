@@ -542,7 +542,7 @@
   markingCategory: Chest
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: belly_crest
 
 - type: marking
@@ -551,7 +551,7 @@
   markingCategory: Chest
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: belly_full
 
 - type: marking
@@ -560,7 +560,7 @@
   markingCategory: Chest
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: belly_fox
 
 # # Body Markings (Overlay)
@@ -599,7 +599,7 @@
   bodyPart: RFoot
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_feet
 
 - type: marking
@@ -608,7 +608,7 @@
   bodyPart: LLeg
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_crest-legs
 
 - type: marking
@@ -617,7 +617,7 @@
   bodyPart: LLeg
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_fade-legs
 
 - type: marking
@@ -626,7 +626,7 @@
   bodyPart: LLeg
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_sharp-legs
 
 # Arm Markings
@@ -636,7 +636,7 @@
   bodyPart: RHand
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_hands
 
 - type: marking
@@ -645,7 +645,7 @@
   bodyPart: LArm
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_crest-arms
 
 - type: marking
@@ -654,7 +654,7 @@
   bodyPart: LArm
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_fade-arms
 
 - type: marking
@@ -663,7 +663,7 @@
   bodyPart: LArm
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: _DV/Mobs/Customization/Vulpkanin/body_markings.rsi
+    - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
       state: points_sharp-arms
 
 # Hairs

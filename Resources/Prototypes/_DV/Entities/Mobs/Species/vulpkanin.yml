@@ -200,3 +200,39 @@
   components:
   - type: HumanoidAppearance
     species: Vulpkanin
+  - type: Inventory
+    speciesId: vulpkanin
+    #Omu start
+    femaleDisplacements:
+      jumpsuit:
+        sizeMaps:
+          32:
+            sprite: _Omu/Mobs/Species/Vulpkanin/displacement.rsi
+            state: jumpsuit
+      shoes:
+        sizeMaps:
+          32:
+            sprite: _Omu/Mobs/Species/Vulpkanin/displacement.rsi
+            state: shoes
+      outerClothing:
+        sizeMaps:
+          32:
+            sprite: _Omu/Mobs/Species/Vulpkanin/displacement.rsi
+            state: outerclothing
+    displacements:
+      jumpsuit:
+        sizeMaps:
+          32:
+            sprite: _Omu/Mobs/Species/Vulpkanin/displacement.rsi
+            state: jumpsuit
+      shoes:
+        sizeMaps:
+          32:
+            sprite: _Omu/Mobs/Species/Vulpkanin/displacement.rsi
+            state: shoes
+      outerClothing:
+        sizeMaps:
+          32:
+            sprite: _Omu/Mobs/Species/Vulpkanin/displacement.rsi
+            state: outerclothing
+  #Omu end
