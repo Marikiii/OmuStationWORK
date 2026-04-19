@@ -17,10 +17,18 @@
     {
         "name": "outerclothing",
         "directions": 4
-      },
+    },
     {
       "name": "shoes",
       "directions" : 4
+    },
+    {
+        "name": "r_leg",
+        "directions": 4
+    },
+    {
+        "name": "l_leg",
+        "directions": 4
     }
   ]
 }

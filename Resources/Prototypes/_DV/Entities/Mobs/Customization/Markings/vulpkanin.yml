@@ -540,6 +540,7 @@
   id: VulpBellyCrest
   bodyPart: Chest
   markingCategory: Chest
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
@@ -549,6 +550,7 @@
   id: VulpBellyFull
   bodyPart: Chest
   markingCategory: Chest
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
@@ -558,6 +560,7 @@
   id: VulpBellyFox
   bodyPart: Chest
   markingCategory: Chest
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
@@ -597,6 +600,7 @@
   id: VulpPointsFeet
   markingCategory: RightFoot
   bodyPart: RFoot
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
@@ -606,6 +610,7 @@
   id: VulpPointsCrestLegs
   markingCategory: LeftLeg
   bodyPart: LLeg
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
@@ -615,6 +620,7 @@
   id: VulpPointsFadeLegs
   markingCategory: LeftLeg
   bodyPart: LLeg
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
@@ -624,6 +630,7 @@
   id: VulpPointsSharpLegs
   markingCategory: LeftLeg
   bodyPart: LLeg
+  canBeDisplaced: false # Omu - Vulp Furrification
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: _Omu/Mobs/Customization/Vulpkanin/body_markings.rsi # Omu - Vulp Furrification
