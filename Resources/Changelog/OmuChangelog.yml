@@ -3517,3 +3517,9 @@ Entries:
       message: Changed Nukie agent chemist time requirement to be 10hrs instead of 5
   id: 452
   time: '2026-04-22T18:13:28.0000000+00:00'
+- author: ArtemisYK
+  changes:
+    - type: Remove
+      message: StaminaDamage Component from the Hristov
+  id: 453
+  time: '2026-04-23T15:46:36.0000000+00:00'
