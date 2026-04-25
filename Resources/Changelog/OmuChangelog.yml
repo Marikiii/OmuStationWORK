@@ -3535,3 +3535,23 @@ Entries:
       message: Added Distraughtcat's "Lunch Break" Artwork to the lobby art rotation
   id: 455
   time: '2026-04-24T23:48:42.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: >-
+        Added thaven kelp wine and some cocktails along with them. Find the wine
+        in booze-o-mat
+    - type: Add
+      message: >-
+        Added thaven kelp pods for botany to grow, mutate them for cask kelp
+        pods that have wine in them. Kelp pod seeds are in megaseed vend
+    - type: Add
+      message: Marketable thaven plush in loadout trinkets
+    - type: Add
+      message: Weird ass thaven dolphin emotes enjoy
+    - type: Add
+      message: Eckeckyik and bieselized eckeckyik translators
+    - type: Add
+      message: Thaven barbel markings
+  id: 456
+  time: '2026-04-25T16:32:49.0000000+00:00'
