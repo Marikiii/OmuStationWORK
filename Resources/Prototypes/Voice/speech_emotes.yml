@@ -450,6 +450,7 @@
     tags:
       - HarpyEmotes # Omu, allow harpy to chirp
       - ThavenEmotes # gds
+      - FeroxiEmotes
     components:
     - Nymph
     - Vocal

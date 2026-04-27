@@ -39,3 +39,9 @@
 
 - type: Tag
   id: CyborgProtoKineticAccelerator
+
+- type: Tag
+  id: AvaliEmotes
+
+- type: Tag
+  id: FeroxiEmotes

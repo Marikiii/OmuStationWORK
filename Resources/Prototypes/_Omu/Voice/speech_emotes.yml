@@ -1,0 +1,18 @@
+- type: emote
+  id: FeroxiChirp
+  name: chat-emote-name-trill
+  category: Vocal
+  available: false
+  icon: _Goobstation/Interface/Emotes/caw.png # needs to change
+  whitelist:
+    components:
+      - Vocal
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["chat-emote-msg-trill"]
+  chatTriggers:
+    - chirp
+    - chirps
+    - chirped
+    - chirping
