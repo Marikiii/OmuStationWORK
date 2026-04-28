@@ -3555,3 +3555,11 @@ Entries:
       message: Thaven barbel markings
   id: 456
   time: '2026-04-25T16:32:49.0000000+00:00'
+- author: NotActuallyMarty
+  changes:
+    - type: Fix
+      message: >-
+        Resomi can now use more hair options outside Resomi defaults without
+        looking horrendous.
+  id: 457
+  time: '2026-04-28T07:52:22.0000000+00:00'
