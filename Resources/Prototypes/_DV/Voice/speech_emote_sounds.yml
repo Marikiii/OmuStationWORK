@@ -257,6 +257,10 @@
       collection: Pops
     Gnash: # Omu, give harpy more emotes
       collection: FeroxiGnashes
+    Yap: # Omu, big emote expansion
+      collection: VulpYaps
+    Gekker: # Omu
+      collection: VulpkaninGekkers
 
 - type: emoteSounds
   id: FemaleVulpkanin
@@ -307,6 +311,12 @@
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
+    Yip: # Omu
+      collection: VulpYips
+    Yap: # Omu, big emote expansion
+      collection: VulpYaps
+    Gekker: # Omu
+      collection: VulpkaninGekkers
 
 - type: emoteSounds
   id: MaleVulpkanin
@@ -357,6 +367,12 @@
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
+    Yip: # Omu
+      collection: VulpYips
+    Yap: # Omu, big emote expansion
+      collection: VulpYaps
+    Gekker: # Omu
+      collection: VulpkaninGekkers
 
 - type: emoteSounds
   id: MobDog

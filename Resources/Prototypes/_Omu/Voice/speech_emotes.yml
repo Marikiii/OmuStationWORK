@@ -1,18 +1,37 @@
 - type: emote
-  id: FeroxiChirp
-  name: chat-emote-name-trill
+  id: Yap
+  name: chat-emote-name-yap
+  icon: _Goobstation/Interface/Emotes/bark.png
   category: Vocal
-  available: false
-  icon: _Goobstation/Interface/Emotes/caw.png # needs to change
   whitelist:
-    components:
-      - Vocal
+    tags:
+    - HarpyEmotes
+    - VulpEmotes
   blacklist:
     components:
     - BorgChassis
-  chatMessages: ["chat-emote-msg-trill"]
+  chatMessages: ["chat-emote-msg-yap"]
   chatTriggers:
-    - chirp
-    - chirps
-    - chirped
-    - chirping
+    - yap
+    - yaps
+    - yapping
+    - yapped
+
+- type: emote
+  id: Gekker
+  name: chat-emote-name-gekker
+  icon: _Goobstation/Interface/Emotes/bark.png
+  category: Vocal
+  whitelist:
+    tags:
+    - HarpyEmotes
+    - VulpEmotes
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["chat-emote-msg-gekker"]
+  chatTriggers:
+    - gekker
+    - gekkers
+    - gekkering
+    - gekkered

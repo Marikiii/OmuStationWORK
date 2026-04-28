@@ -11,3 +11,24 @@
   - /Audio/_Omu/Voice/Reptilian/humanoid_lizard_scream_2.ogg
   - /Audio/_Omu/Voice/Reptilian/humanoid_lizard_scream_3.ogg
   - /Audio/_Omu/Voice/Reptilian/humanoid_lizard_scream_4.ogg
+
+# Vulp emotes
+
+- type: soundCollection
+  id: VulpYips
+  files:
+    - /Audio/Animals/fox_squeak.ogg
+
+- type: soundCollection
+  id: VulpYaps
+  files:
+    - /Audio/_Omu/Voice/Vulp/yap1.ogg
+    - /Audio/_Omu/Voice/Vulp/yap2.ogg
+    - /Audio/_Omu/Voice/Vulp/yap3.ogg
+
+- type: soundCollection
+  id: VulpkaninGekkers
+  files:
+    - /Audio/_Floofstation/Voice/Vulpkanin/gekker.ogg
+
+
