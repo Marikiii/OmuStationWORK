@@ -3593,3 +3593,9 @@ Entries:
       message: Increased the shark soft plush "attack" rate!
   id: 461
   time: '2026-04-28T08:00:58.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Remove
+      message: Removed the lavaland syndicate base.
+  id: 462
+  time: '2026-04-28T08:01:42.0000000+00:00'
