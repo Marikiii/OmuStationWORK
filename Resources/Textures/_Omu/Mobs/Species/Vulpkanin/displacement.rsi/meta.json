@@ -29,6 +29,10 @@
     {
         "name": "l_leg",
         "directions": 4
+    },
+    {
+        "name": "hair",
+        "directions": 4
     }
   ]
 }
