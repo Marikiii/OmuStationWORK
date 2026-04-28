@@ -3569,3 +3569,11 @@ Entries:
       message: Resprited captain longcloak to match the rest of the cap gear
   id: 458
   time: '2026-04-28T07:54:43.0000000+00:00'
+- author: raincally
+  changes:
+    - type: Fix
+      message: >-
+        Fixed hos duty case giving you hp bullets for the brdi instead of full
+        metal jacket
+  id: 459
+  time: '2026-04-28T07:55:20.0000000+00:00'
