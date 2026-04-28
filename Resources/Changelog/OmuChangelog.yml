@@ -3563,3 +3563,9 @@ Entries:
         looking horrendous.
   id: 457
   time: '2026-04-28T07:52:22.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: Resprited captain longcloak to match the rest of the cap gear
+  id: 458
+  time: '2026-04-28T07:54:43.0000000+00:00'
