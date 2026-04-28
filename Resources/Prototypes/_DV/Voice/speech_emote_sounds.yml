@@ -137,6 +137,14 @@
       collection: Pops
     Gnash: # Omu, give harpy more emotes
       collection: FeroxiGnashes
+    Yap: # Omu
+      collection: VulpYaps
+    Gekker: # Omu
+      collection: VulpkaninGekkers
+    Squee: # Omu
+      collection: RodentiaSquees
+    Snort: # Omu
+      collection: RodentiaSnorts
 
 - type: emoteSounds
   id: SoundsHarpyMale
@@ -261,6 +269,10 @@
       collection: VulpYaps
     Gekker: # Omu
       collection: VulpkaninGekkers
+    Squee: # Omu
+      collection: RodentiaSquees
+    Snort: # Omu
+      collection: RodentiaSnorts
 
 - type: emoteSounds
   id: FemaleVulpkanin
@@ -431,6 +443,10 @@
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
+    Squee: # Omu
+      collection: RodentiaSquees
+    Snort: # Omu
+      collection: RodentiaSnorts
 
 - type: emoteSounds
   id: FemaleRodentia
@@ -471,6 +487,10 @@
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
+    Squee: # Omu
+      collection: RodentiaSquees
+    Snort: # Omu
+      collection: RodentiaSnorts
 
 - type: emoteSounds
   id: UnisexChitinid

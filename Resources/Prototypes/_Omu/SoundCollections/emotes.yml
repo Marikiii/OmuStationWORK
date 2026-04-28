@@ -31,4 +31,16 @@
   files:
     - /Audio/_Floofstation/Voice/Vulpkanin/gekker.ogg
 
+# Rodentia emotes
 
+- type: soundCollection
+  id: RodentiaSquees
+  files:
+    - /Audio/_Starlight/Voice/Lagomorph/squeak1.ogg
+    - /Audio/_Starlight/Voice/Lagomorph/squeak2.ogg
+
+- type: soundCollection
+  id: RodentiaSnorts
+  files:
+    - /Audio/_Starlight/Voice/Lagomorph/snort1.ogg
+    - /Audio/_Starlight/Voice/Lagomorph/snort2.ogg

@@ -44,4 +44,7 @@
   id: AvaliEmotes
 
 - type: Tag
+  id: RodentiaEmotes
+
+- type: Tag
   id: FeroxiEmotes
