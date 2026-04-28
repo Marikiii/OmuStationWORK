@@ -3587,3 +3587,9 @@ Entries:
         they still might not die)
   id: 460
   time: '2026-04-28T07:56:22.0000000+00:00'
+- author: Marikiii
+  changes:
+    - type: Tweak
+      message: Increased the shark soft plush "attack" rate!
+  id: 461
+  time: '2026-04-28T08:00:58.0000000+00:00'
