@@ -139,8 +139,6 @@
       collection: FeroxiGnashes
     Yap: # Omu
       collection: VulpYaps
-    Gekker: # Omu
-      collection: VulpkaninGekkers
     Squee: # Omu
       collection: RodentiaSquees
     Snort: # Omu
@@ -267,8 +265,6 @@
       collection: FeroxiGnashes
     Yap: # Omu, big emote expansion
       collection: VulpYaps
-    Gekker: # Omu
-      collection: VulpkaninGekkers
     Squee: # Omu
       collection: RodentiaSquees
     Snort: # Omu
@@ -327,8 +323,6 @@
       collection: VulpYips
     Yap: # Omu, big emote expansion
       collection: VulpYaps
-    Gekker: # Omu
-      collection: VulpkaninGekkers
 
 - type: emoteSounds
   id: MaleVulpkanin
@@ -383,8 +377,6 @@
       collection: VulpYips
     Yap: # Omu, big emote expansion
       collection: VulpYaps
-    Gekker: # Omu
-      collection: VulpkaninGekkers
 
 - type: emoteSounds
   id: MobDog

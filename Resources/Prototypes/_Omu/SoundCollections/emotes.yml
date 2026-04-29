@@ -26,11 +26,6 @@
     - /Audio/_Omu/Voice/Vulp/yap2.ogg
     - /Audio/_Omu/Voice/Vulp/yap3.ogg
 
-- type: soundCollection
-  id: VulpkaninGekkers
-  files:
-    - /Audio/_Floofstation/Voice/Vulpkanin/gekker.ogg
-
 # Rodentia emotes
 
 - type: soundCollection

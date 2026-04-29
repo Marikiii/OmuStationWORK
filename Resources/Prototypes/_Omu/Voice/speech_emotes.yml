@@ -18,25 +18,6 @@
     - yapped
 
 - type: emote
-  id: Gekker
-  name: chat-emote-name-gekker
-  icon: _Goobstation/Interface/Emotes/bark.png
-  category: Vocal
-  whitelist:
-    tags:
-    - HarpyEmotes
-    - VulpEmotes
-  blacklist:
-    components:
-    - BorgChassis
-  chatMessages: ["chat-emote-msg-gekker"]
-  chatTriggers:
-    - gekker
-    - gekkers
-    - gekkering
-    - gekkered
-
-- type: emote
   id: Squee # idk man i feel like it fits the sound
   name: chat-emote-name-squee
   icon: Interface/Emotes/squeak.png
