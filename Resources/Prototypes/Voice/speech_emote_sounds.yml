@@ -524,6 +524,8 @@
       path: /Audio/_Starlight/Voice/Arachnid/arachnid_yawn.ogg # Omu
     Crying:
       path: /Audio/_Starlight/Voice/Arachnid/arachnid_cry.ogg # Omu
+    Sigh:
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_sigh.ogg # Omu
 
 - type: emoteSounds
   id: UnisexDwarf
