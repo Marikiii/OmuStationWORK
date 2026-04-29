@@ -511,13 +511,19 @@
     CatMeow:
       collection: CatMeows # Goobstation - effect standardization
     Gasp:
-      collection: MaleGasp
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_gasp.ogg # Omu
     DefaultDeathgasp:
       collection: DeathGasp
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
     Gulp: # Goob
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
+    Cough:
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_cough.ogg # Omu
+    Yawn:
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_yawn.ogg # Omu
+    Crying:
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_cry.ogg # Omu
 
 - type: emoteSounds
   id: UnisexDwarf

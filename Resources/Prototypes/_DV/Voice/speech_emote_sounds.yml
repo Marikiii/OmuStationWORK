@@ -508,7 +508,7 @@
     Click:
       path: /Audio/Voice/Arachnid/arachnid_click.ogg
     Crying:
-      collection: FemaleCry
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_cry.ogg # Omu
     Weh:
       collection: Weh
     Hew:
@@ -516,17 +516,17 @@
     Sneeze:
       collection: MaleSneezes
     Cough:
-      collection: MaleCoughs
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_cough.ogg # Omu
     Yawn:
-      collection: MaleYawn
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_yawn.ogg # Omu
     Hiss:
       path: /Audio/Animals/snake_hiss.ogg
     Gasp:
-      collection: MaleGasp
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_gasp.ogg # Omu
     DefaultDeathgasp:
       collection: MothDeathGasp
     Sigh:
-      collection: MaleSigh
+      path: /Audio/_Starlight/Voice/Arachnid/arachnid_sigh.ogg # Omu
     Whistle:
       collection: Whistles
     Gulp: # Goob
@@ -540,7 +540,7 @@
     variation: 0.125
   sounds:
     Scream:
-      collection: FemaleScreams
+      collection: FeroxiScream # Omu
     Laugh:
       collection: FemaleLaugh
     Sneeze:
@@ -556,7 +556,7 @@
     Sigh:
       collection: FemaleSigh
     Crying:
-      collection: FemaleCry
+      collection: FeroxiCry # Omu
     Whistle:
       collection: Whistles
     Weh:
@@ -575,6 +575,13 @@
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Omu Start
+    Chirp:
+      collection: FeroxiChirps
+    Squeak:
+      collection: FeroxiSqueak
+    # Omu End
+
 
 - type: emoteSounds
   id: MaleFeroxi
@@ -582,7 +589,7 @@
     variation: 0.125
   sounds:
     Scream:
-      collection: MaleScreams
+      collection: FeroxiScream # Omu
     Laugh:
       collection: MaleLaugh
     Sneeze:
@@ -598,7 +605,7 @@
     Sigh:
       collection: MaleSigh
     Crying:
-      collection: MaleCry
+      collection: FeroxiCry # Omu
     Whistle:
       collection: Whistles
     Weh:
@@ -617,3 +624,9 @@
       path: /Audio/_Goobstation/Voice/gulpexotic.ogg
     Surprised: # Goob
       path: /Audio/_Goobstation/Voice/surprised.ogg
+    # Omu Start
+    Chirp:
+      collection: FeroxiChirps
+    Squeak:
+      collection: FeroxiSqueak
+    # Omu End
